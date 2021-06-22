@@ -1,9 +1,9 @@
 package exam;
 
-public class ConvertToBinary {
-
-  public String toBinary(final int n) {
-    //TODO write your code here to achieve the desired result as explained in Readme file for this problem.
-    return "";
-  }
+public class DecimalToBinary {
+public static void main(string args[]){
+  system.out.println(integer.toBinaryString(10));
+  system.out.println(integer.toBinaryString(21));
+  system.out.println(integer.toBinaryString(31));
+}
 }
